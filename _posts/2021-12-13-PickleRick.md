@@ -2,7 +2,7 @@
 layout: post
 title: PickleRick CTF on TryHackMe
 subtitle: Difficulty level: Easy
-cover-img: /assets/img/picklerick/pickle.jpg
+cover-img: /assets/img/pickle.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [THM, ]
