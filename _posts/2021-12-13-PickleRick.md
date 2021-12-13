@@ -1,12 +1,28 @@
 ---
 layout: post
 title: PickleRick CTF on TryHackMe
-subtitle: Difficulty level Easy
-cover-img: /assets/img/pickle.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+subtitle: Difficulty level - Easy
+cover-img: /assets/img/picklerick/pickle.jpg
+thumbnail-img: /assets/img/picklerick/cover.jpg
+share-img: /assets/img/picklerick/pickle.jpg
 tags: [THM, ]
 ---
+
+This blog post is a walkthrough of an easy room on TryHackMe.
+
+First we deploy the machine
+
+![Machine Info](/assets/img/picklerick/active.jpg)
+
+The prompt tells us to explore the web application on the machine address.
+
+So first we can run nmap scan.
+
+![Nmap](/assets/img/picklerick/nmap.png)
+
+The scan shows us two open ports on 22 and 80. We will first investigate port 80. 
+
+Opening the website on web-browser.
 
 Ran nmap
 
