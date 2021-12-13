@@ -30,7 +30,7 @@ Rick has done it again, we must find the three ingredients and help him out.
 
 Doing basic enumeration we can check the console to see if there are any clues! We found a username in the comments - R1ckRul3s
 
-[!username](/assets/img/picklerick/usename.png)
+[!username](/assets/img/picklerick/username.png)
 
 Now that we have a username we should find a login page of some sorts and some password! For that we can use gobuster, a popular directory enumeration tool or try some manual enumeration.
 
@@ -42,7 +42,7 @@ gobuster dir -u http://10.10.202.23 -w /usr/share/dirb/wordlists/common.txt -x p
 
 Going through the endpoints on robots.txt we find some random text
 
-[!password](/assets/img/picklerick/password.png)
+[!password](/assets/img/picklerick/robots.png)
 
 Maybe this could be the password for username R1ckRul3s
 
