@@ -9,9 +9,6 @@ My name is Anmol Arora and I am a software engineering student at the Tampere Un
 So thus I started my journey and so far I here are my nerdy stats 
 
 - TryHackMe top 4% 
-~~~
-<script src="https://tryhackme.com/badge/312050"></script>
-~~~
 - HackTheBox Script Kiddie
 - Defend the Web 50% completion
 - PortSwigger - 23% done
