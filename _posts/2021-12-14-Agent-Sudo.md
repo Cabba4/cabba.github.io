@@ -2,10 +2,10 @@
 layout: post
 title: Agent-Sudo CTF on TryHackMe
 subtitle: Difficulty level - Easy
-cover-img: /assets/img/Agent-Sudo/
+cover-img: /assets/img/Agent-Sudo/logo.png
 thumbnail-img: /assets/img/Agent-Sudo/cover.jpg
-share-img: /assets/img/Agent-Sudo/pickle.jpg
-tags: [THM, File Traversal, webshell]
+share-img: /assets/img/Agent-Sudo/cover.jpg
+tags: [THM, steganography, cve, root, binwalk]
 ---
 
 This blog post is a walkthrough of an easy room on TryHackMe.
