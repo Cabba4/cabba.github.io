@@ -3,8 +3,8 @@ layout: post
 title: Agent-Sudo CTF on TryHackMe
 subtitle: Difficulty level - Easy
 cover-img: /assets/img/Agent-Sudo/logo.png
-thumbnail-img: /assets/img/Agent-Sudo/cover.jpg
-share-img: /assets/img/Agent-Sudo/cover.jpg
+thumbnail-img: /assets/img/Agent-Sudo/cover.png
+share-img: /assets/img/Agent-Sudo/cover.png
 tags: [THM, steganography, cve, root, binwalk]
 ---
 
