@@ -39,19 +39,20 @@ Stack holds all custom variables -> stack grows downward, heap fills upwards (ob
 At the end of the program(when it works properly) the return 0 jumps back to the memory address and stops executing. The stack looks like this -> 
 
 High memory
------------ 
-|function|
------------
-|parameters|
------------
-|return address|                            And here // if this is changed then program behaves differently 
------------
-|base pointer|                              Overwriting here ^
------------
-|buffer input|      So if we give extra input here the extra chars fill upward ^
------------
-|heap|
 
+-----------  
+|function|  
+-----------  
+|parameters|  
+-----------  
+|return address|                            And here // if this is changed then program behaves differently  
+-----------  
+|base pointer|                              Overwriting here ^  
+-----------  
+|buffer input|      So if we give extra input here the extra chars fill upward ^  
+-----------  
+|heap|  
+  
 Providing more than required input leads to *Segmentation fault* 
 
 Basic payload for buffer ovf -> \x90 also called no op sled (keeps sliding forward ie move to next memory address) 
