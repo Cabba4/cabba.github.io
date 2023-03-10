@@ -4,8 +4,7 @@ title: Network Security Cisco Course
 subtitle: Course review
 thumbnail-img: /assets/img/Network_Security.png
 share-img: /assets/img/Network_Security.png
-tags: [cert], [cisco]
-comments: true
+tags: [cert, cisco]
 ---
 
 My honest and personal review of the Network Security course I took during the Spring semester 2023.
@@ -35,6 +34,5 @@ While I enjoyed this course it was a bit too much networky for me, too much laye
 ### Grade Assesment?
 
 {: .box-note}
-**Grade:** I am happy to inform that I received a grade 5
+**Grade:** I am happy to inform that I received a grade 5  
 
-Feel free to leave a comment!
