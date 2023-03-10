@@ -1,11 +1,13 @@
 ---
 layout: post
-title: Network Security Cisco Course
-subtitle: Course review
-thumbnail-img: /assets/img/Network_Security.png
-share-img: /assets/img/Network_Security.png
+title: Network Security Course
+subtitle: Cisco Network Security course review
+cover-img: /assets/img/networksecurity/background.jpg
+thumbnail-img: /assets/img/networksecurity/Network_Security.png
+share-img: /assets/img/networksecurity/Network_Security.png
 tags: [cert, cisco]
 ---
+
 
 My honest and personal review of the Network Security course I took during the Spring semester 2023.
 
