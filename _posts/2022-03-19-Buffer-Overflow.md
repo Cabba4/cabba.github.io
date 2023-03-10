@@ -3,8 +3,8 @@ layout: post
 title: Buffer Overflow
 subtitle: CTF notes for doing a buffer overflow
 cover-img: /assets/img/bufferovf/cover.png
-thumbnail-img: /assets/img/bufferovf/nail.png
-share-img: /assets/img/bufferovf/nail.png
+thumbnail-img: /assets/img/bufferovf/memory.png
+share-img: /assets/img/bufferovf/memory.png
 tags: [memory, heap, stack, overflow]
 ---
 
