@@ -12,7 +12,7 @@ My honest and personal review of my first term at TAU in Information Security pr
 
 ## Courses I took
 
-For my first semester I was quite exciter and maybe overloaded my schedule a bit, I enrolled into 6 courses and was forced to do 2 orientation realted courses (something which I could have lived without :) 
+For my first semester I was quite exciter and maybe overloaded my schedule a bit, I enrolled into 6 courses and was forced to do 2 orientation related courses (something which I could have lived without :) 
 
 My courses that I chose were
 - CyberSecurity 1
@@ -22,15 +22,16 @@ My courses that I chose were
 
 Courses I had to enroll in were
 - Data structures and algorithms
-- Differential and Integral calculas
+- Differential and Integral calculus
 
-I will skip writing about orientation courses since I didnt enjoy them but they were vital and I understand why they are included in the program structure.
+I will skip writing about orientation courses since I didn't enjoy them but they were vital and I understand why they are included in the program structure.
 
 Of these 6 courses I have completed 5 of them with the exception of CyberSecurity 1, which I was most excited about but left me questioning the courses and entire programs existence (more on this later)
 
 ## Course Ranking based on work effort
 
-If I rank the courses I did based on the amount of effort I had to put in, it would be so 
+If I rank the courses I did based on the amount of effort I had to put in, it would be so: 
+
 | Subject                          | Weekly Hours       | Hours During Final Submissions/Exams |
 |----------------------------------|--------------------|---------------------------------------|
 | Cryptography Engineering         | 20-30 hrs/week     | 5-10 hrs/day                          |
@@ -41,21 +42,21 @@ If I rank the courses I did based on the amount of effort I had to put in, it wo
 | Cyber Security 1                 | 2-4 hrs/week       | By choice                             |
 
 
-One thing that already sticks out to me is that I was putting in 8-10hrs a week for the course Data Structures and additional 2-6hrs for Math course ie courses I didnt choose to do but I *had* to do since graduating from TAMK meant I am required to complete a certain study package. This package has a total of 25 credits so out of 120 for the masters, after removing 30 for thesis and 25 from this package, I only get to choose 65 credits. Not very nice :(
+One thing that already sticks out to me is that I was putting in 8-10hrs a week for the course Data Structures and additional 2-6hrs for Math course ie courses I didn't choose to do but I *had* to do since graduating from TAMK meant I am required to complete a certain study package. This package has a total of 25 credits so out of 120 for the masters, after removing 30 for thesis and 25 from this package, I only get to choose 65 credits. Not very nice :(
 
 I will do a short breakdown of the courses now.
 
 ## Cryptography Engineering
 
-By far the best course I had this semester, I learned so much about a field I wasnt very excited about and had doubts starting this course. But in the end I can say I am glad I took this course since it brought to me the peak university experience even though it was completely online. The teacher was awesome and had planned the course really well. Each week was described in detail and it was easy to find out what was expected of me. There was more than enough information about the weeks topics and each week had quizzes and and coding exercises. 
+By far the best course I had this semester, I learned so much about a field I wasn't very excited about and had doubts starting this course. But in the end I can say I am glad I took this course since it brought to me the peak university experience even though it was completely online. The teacher was awesome and had planned the course really well. Each week was described in detail and it was easy to find out what was expected of me. There was more than enough information about the weeks topics and each week had quizzes and and coding exercises. 
 
 The book for the course was - [Understanding Cryptography First edition](https://www.cryptography-textbook.com/) by Christof Paar and the video lecture series was also by him which is all there on YouTube!
 
-Initially this was off putting for me since I was conflicted about following a course where video lectures arent even recorded by the teacher incharge and just available on YouTube for everyone, but as the course progressed and the coding assignments became more and more demanding I was glad that I could understand the book straight from its author and I believe Christof Paar's enthusiasm for crypto rubber off me and made me interested in it too. He is by far the best online lecturer I have ever had.
+Initially this was off putting for me since I was conflicted about following a course where video lectures aren't even recorded by the teacher in charge and just available on YouTube for everyone, but as the course progressed and the coding assignments became more and more demanding I was glad that I could understand the book straight from its author and I believe Christof Paar's enthusiasm for crypto rubber off me and made me interested in it too. He is by far the best online lecturer I have ever had.
 
 There were two course exams and both were from a fixed question pool making the exam easy if you know your way with ChatGPT and understand the topics, which would only be possible if you worked on the course every week.
 
-Course rating 4.5/5 Highly recommened
+Course rating 4.5/5 Highly recommended
 
 Github repo - [https://github.com/Cabba4/cryptography](https://github.com/Cabba4/cryptography)
 
@@ -72,7 +73,7 @@ I also didnt enjoy the course because I really dont see the point of making 'Inf
 
 Nevertheless this course took a lot of effort and fighting with ChatGPT only for me to learn nothing :) 
 
-Course rating - 1/5 Would not recommened even to a Comp Sc major tbh.
+Course rating - 1/5 Would not recommended even to a Comp Sc major tbh.
 
 Github repo with course works - [https://github.com/Cabba4/dsa-2024](https://github.com/Cabba4/dsa-2024) good luck trying to run it if you dare to.
 
@@ -81,7 +82,7 @@ Github repo with course works - [https://github.com/Cabba4/dsa-2024](https://git
 
 The course was about learning about different types of security protocols that are used in every day world and implementing them on a small scale. Each protocol had a tutorial around it as well. The protocols were discussed in ppt style pre-recorded videos by various teachers and tutors. I think there were 4 teachers+tutors for the course and I am really not a fan of such courses where theres too many people involved. Too many cooks do spoil the broth :)
 
-The vidoes were, not helpful. The tutorials were, awesome. So overall I am conflicted about this course. In terms of content and what this course couldve been it sounded amazing to me but the implementation was lacking and left me wondering how could such an interesting topic be reduced to this. The course wanted to develop the students mindset as hackers and try to encourage them to find ways to break protocols involved in key exchange and information signing, but how can students be expected to be fluent in protocols theyve never tackled before? Also making a ppt with moving elements is captivating but only for the first 5 minutes (maybe thats just me but I prefer black board style teaching still).
+The videos were, not helpful. The tutorials were, awesome. So overall I am conflicted about this course. In terms of content and what this course couldve been it sounded amazing to me but the implementation was lacking and left me wondering how could such an interesting topic be reduced to this. The course wanted to develop the students mindset as hackers and try to encourage them to find ways to break protocols involved in key exchange and information signing, but how can students be expected to be fluent in protocols theyve never tackled before? Also making a ppt with moving elements is captivating but only for the first 5 minutes (maybe thats just me but I prefer black board style teaching still).
 
 The tutorials did make up a bit but they were mostly step by step instructions which were fun to follow but not really teaching anything. Or maybe if I go back to them and do them 3-5 more times would I learn anything concrete, until then it just stays in my memory for a week or so and then it goes away. 
 
@@ -94,7 +95,7 @@ Course rating - 3/5
 Github repo - [https://github.com/Cabba4/aliceAndBob/tree/main](https://github.com/Cabba4/aliceAndBob/tree/main)
 
 
-## Differntial and Integral Calculas
+## Differential and Integral Calculus
 
 Course involved Matlab, I dont know how to use matlab. I tried to learn matlab, I now hate matlab.
 
@@ -108,7 +109,7 @@ Course rating - 3/5 nothing wrong with the course, I just dont like it.
 
 ## Cloud Technology
 
-This course was pretty fun, it involved numerous tutorial based on DevOps teachnologies like Docker, Ansible, Kubernetes and Terraform and since I work as a DevOps engineer this course was easy for me. The tutorials gave a good starting point but also left a lot to be figured out on your own, it was a right balance and even though the issue with the tutorials persists; that step by step instructions are easy to follow but difficult to remember I enjoyed doing them and definitely learned about Terraform and a few new tools for Docker image handling.
+This course was pretty fun, it involved numerous tutorial based on DevOps technologies like Docker, Ansible, Kubernetes and Terraform and since I work as a DevOps engineer this course was easy for me. The tutorials gave a good starting point but also left a lot to be figured out on your own, it was a right balance and even though the issue with the tutorials persists; that step by step instructions are easy to follow but difficult to remember I enjoyed doing them and definitely learned about Terraform and a few new tools for Docker image handling.
 
 This course was also a one period course but the workload was adjusted to that and teacher did a good job overall.
 
@@ -119,9 +120,9 @@ Github repo - [https://github.com/Cabba4/terraform-stuff](https://github.com/Cab
 
 ## Cybersecurity 1
 
-The course I was most excited for has sadly disappointed me the most, completely self paced with a very ancient looking learning platform and no fixed studying agenda. There are a few automatic exercises which are supposed to be completed before taking exams which are infact fun but the overall freedom of the course left me with no plan to go through the course. I ended up spending barely anytime with this course and I hope to change it this semester. 
+The course I was most excited for has sadly disappointed me the most, completely self paced with a very ancient looking learning platform and no fixed studying agenda. There are a few automatic exercises which are supposed to be completed before taking exams which are in fact fun but the overall freedom of the course left me with no plan to go through the course. I ended up spending barely anytime with this course and I hope to change it this semester. 
 
-I had hoped for a course which would have a teacher who is passionate about the subject and would make us interested in it too, ofcourse cyber security is a huge space and theres so much to learn in it but maybe dont burry the new student in papers and pdfs and mind maps already :)
+I had hoped for a course which would have a teacher who is passionate about the subject and would make us interested in it too, of course cyber security is a huge space and theres so much to learn in it but maybe dont burry the new student in papers and pdfs and mind maps already :)
 
 
 
